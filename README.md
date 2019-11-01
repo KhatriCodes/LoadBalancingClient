@@ -4,6 +4,8 @@ This application is running on different ports i.e 9091 and 9092 , so that our 1
 
 In this Application just we have WEB dependency and displaying String messsage "Application is running on +port"
 
-![DirectPortUrl]()
+![When we are hitting this Application Directly via Port 9091](https://github.com/KhatriCodes/LoadBalancingClient/blob/master/Port9091.png)
+
+![When we are hitting this Application Directly via Port 9092](https://github.com/KhatriCodes/LoadBalancingClient/blob/master/Port9092.png)
 
 
